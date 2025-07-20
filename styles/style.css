@@ -302,7 +302,9 @@ footer div i {
         margin: 0 20px;
 
     }
-    
+    .banner{
+        margin-bottom: 20px;
+    }
     .banner-contain {
         width: 100%;
         text-align: center;
@@ -339,8 +341,12 @@ footer div i {
     .logo-image img {
         width: 50px;
     }
-
+    .popular-collection{
+       
+       justify-items: center;
+    }
     .popular-container {
+      
         display: grid;
         grid-template-columns: 1fr;
 
