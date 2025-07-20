@@ -310,6 +310,9 @@ footer div i {
         margin: 0 20px;
 
     }
+    .company-image{
+        margin: 50px 0;
+    }
     .banner{
         margin-bottom: 20px;
     }
@@ -375,7 +378,7 @@ footer div i {
        
        
      
-        font-size: 1.6rem;
+        font-size: 1.9rem;
     }
     
     .featured-container {
@@ -389,6 +392,11 @@ footer div i {
     .featured-description{
       width: 100%;
         font-size: 1rem;
+    }
+    .see-title{
+        margin-left: 20px;
+        margin-right: 20px;
+        text-align: end;
     }
    
 }
